@@ -1,0 +1,16 @@
+{
+  "name": "promises-lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "01": "node ./src/01-using-promises.js",
+    "02": "node ./src/02-create-promises.js",
+    "03": "node ./src/03-promise-all.js",
+    "04": "node ./src/04-chain-promises.js",
+    "05": "node ./src/05-return-promises.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
